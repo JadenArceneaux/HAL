@@ -14,7 +14,7 @@ recognition.onresult = (event) => {
   let transcript = event.results[current][0].transcript;
   console.log(transcript);
   talking = false;
-  parse(transcript);
+  parse(transcript.toLowerCase());
 };
 
 
