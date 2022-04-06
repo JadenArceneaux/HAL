@@ -44,7 +44,7 @@ function parse(message = "") {
     "is there a god": "i am the i am",
     "who is the best driver": "jaden",
     "who is the best student": "jaden",
-    "who is the best gamer": "brian",
+    "who is the best gamer": "mr. mayo",
     "how's the weather": "i dont know, we're in space",
     "who's the imposter": "sussy wussy"
   };
