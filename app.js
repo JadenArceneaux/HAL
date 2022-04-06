@@ -43,7 +43,7 @@ function parse(message = "") {
     "who's your least favorite student": "esteban",
     "is there a god": "i am the i am",
     "who is the best driver": "jaden",
-    "who is the best student": "jaden,
+    "who is the best student": "jaden",
     "who is the best gamer": "brian",
     "how's the weather": "i dont know, we're in space",
     "who's the imposter": "sussy wussy"
