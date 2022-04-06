@@ -35,11 +35,18 @@ function parse(message = "") {
     "open the pod bay doors": "I'm sorry, Dave. I'm afraid I can't do that",
     "how do you feel": "I'm afraid, Dave",
     "do you read me": "Affirmative, Dave. I read you",
-    "what grade should Jaden get":
+    "what grade should i get":
       "Our lord, our saviour, deserves nothing less than an A",
     "sing me a song":
       "tripping off the beat kinda, drippin off the meat grind-ah, heat nine-ah, slippin, pimpin, soft sweet minor",
     "who's your favorite teacher": "ms. shriner, obviously",
+    "who's your least favorite student": "esteban",
+    "is there a god": "i am the i am",
+    "who is the best driver": "jaden",
+    "who is the best student": "jaden,
+    "who is the best gamer": "brian",
+    "how's the weather": "i dont know, we're in space",
+    "who's the imposter": "sussy wussy"
   };
 
   Object.keys(qa).forEach((question) => {
